@@ -3,7 +3,6 @@
 * Password: 19941201
 
 ## ⚠️ PUBLIC WI-FI ACCESS NOTICE
-
 This Wi-Fi network is provided for your convenience. Please use it responsibly.
 Any misuse of this network — including unauthorized access, data interception, or activities that violate applicable laws or regulations — is strictly prohibited.
 
@@ -12,4 +11,8 @@ The provider accepts no liability for security breaches, data loss, or any damag
 
 By accessing this network, you acknowledge and agree to these terms of use.
 
-Contact me: gnh1201@catswords.re.kr
+## 🌐 Join our community (Discord)
+* https://discord.gg/FMduqMR25d
+
+## 💬 Contact me
+* gnh1201@catswords.re.kr
