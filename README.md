@@ -1,2 +1,3 @@
 # wifi
-wifi.catswords.net
+SSID: wifi.catswords.net
+Password: 19941201
